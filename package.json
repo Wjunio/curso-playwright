@@ -1,0 +1,23 @@
+{
+  "name": "curso-playwright",
+  "version": "1.0.0",
+  "description": "Repositorio para o curso de palywright que estou ministrando curso",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wjunio/curso-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wjunio/curso-playwright/issues"
+  },
+  "homepage": "https://github.com/Wjunio/curso-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  }
+}
